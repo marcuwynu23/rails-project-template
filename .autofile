@@ -1,0 +1,6 @@
+# for windows development 
+# replace gem 'tzinfo-data', platforms: [:x64_mingw, :mingw, :mswin]
+# with gem 'tzinfo-data', '~> 1.2021', '>= 1.2021.5'
+# then run:
+# - bundle update
+# then your good to go. happy coding!
