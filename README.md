@@ -1,6 +1,6 @@
 # rails-project-template
 
-A Ruby on Rails Project Template with configuraion for windows development
+A Ruby on Rails Project Template with configuration for windows development
 
 ## Contributing
 How to Contribute to this Project Repository:
